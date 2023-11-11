@@ -1,5 +1,5 @@
-# CRUD-SpringBoot
-**Manual de Usuario - Sistema de Gestión de Estudiantes**
+
+# Manual de Usuario - Sistema de Gestión de Estudiantes // Español
 
 Este manual proporciona una guía detallada sobre cómo utilizar el Sistema de Gestión de Estudiantes. El sistema está diseñado para realizar operaciones básicas de un CRUD (Crear, Leer, Actualizar, Eliminar) en estudiantes almacenados en una base de datos en Mysql Workbench. A continuación, se describen las funciones principales y cómo utilizarlas.
 
@@ -34,5 +34,11 @@ Para eliminar un producto existente, sigue estos pasos:
 Busca el producto que deseas eliminar en la lista de productos.
 Haz clic en el enlace "Eliminar" junto al estudiante deseado.
 Confirma la eliminación cuando se te solicite.
+
+# 5. Empleados:
+En la página se mostra un apartado el cual se llama empleados en el cual se podra agregar un empleado, con los campos a llenar de: Nombre, Correo y Contraseña.
+
+# 6. Actualizar información de empleados.
+La persona utilizando el programa puede modificar la información de los usuarios de ser necesario y también puede borrar usuarios
 
 
