@@ -11,24 +11,24 @@ Al abrir la aplicación, se mostrará una lista de estudiantes actualmente almac
 2. Agregar un Estudiante:
 Para agregar un nuevo estudiante, sigue estos pasos:
 
-1. Haz clic en el enlace "Agregar" 
-2. Se abrirá un formulario con campos para el nombre del estudiante, apellido y correo
-3. Ingresa la información del nuevo estudiante.
-4. Haz clic en el botón "Agregar" para guardar el nuevo estudiante.
+Haz clic en el enlace "Agregar" 
+Se abrirá un formulario con campos para el nombre del estudiante, apellido y correo
+Ingresa la información del nuevo estudiante.
+Haz clic en el botón "Agregar" para guardar el nuevo estudiante.
 
 3. Modificar un Estudiante:
 Para modificar un estudiante existente, sigue estos pasos:
 
-1. Busca el estudiante que deseas modificar en la lista de estudiantes.
-2. Haz clic en el enlace "Editar" junto al estudiante deseado.
-3. Se abrirá un formulario prellenado con la información actual del estudiante.
-4. Modifica los campos que desees actualizar.
-5. Haz clic en el botón "Guardar" para aplicar los cambios.
+Busca el estudiante que deseas modificar en la lista de estudiantes.
+Haz clic en el enlace "Editar" junto al estudiante deseado.
+Se abrirá un formulario prellenado con la información actual del estudiante.
+Modifica los campos que desees actualizar.
+Haz clic en el botón "Guardar" para aplicar los cambios.
 
 4. Eliminar un Estudiante:
 Para eliminar un estudiante existente, sigue estos pasos:
 
-1. Busca el estudiante que deseas eliminar en la lista de estudiantes.
-2. Haz clic en el enlace "Eliminar" junto al estudiante deseado.
-3. Confirma la eliminación cuando se te solicite.
+Busca el estudiante que deseas eliminar en la lista de estudiantes.
+Haz clic en el enlace "Eliminar" junto al estudiante deseado.
+Confirma la eliminación cuando se te solicite.
 
